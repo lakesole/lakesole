@@ -11,7 +11,6 @@
 ## 🙋 About Me
 - 🛠 Python으로 사내 배우 데이터 관리 시스템 1인 개발 (800명 데이터, 현재 운영 중)
 - 배우 매니지먼트 8년 → 백엔드 개발자로 전환 중
-- (현장 경험을 시스템으로 만든 이야기를 한 줄로)
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
