@@ -14,7 +14,7 @@
 ## 🚀 Projects
 | 이름 | 프로젝트 | 설명 | 역할 |
 |---|---|---|---|
-| [쇼모아(Show Moa)] | (showmoa.vercel.com) | 공연 정보 플랫폼 | PO, 백엔드 |
+| [쇼모아(Show Moa)] | (https://showmoa.vercel.com) | 공연 정보 플랫폼 | PO, 백엔드 |
 | [찍먹(Dip Source)] | (https://dipsource.newlecture.com) | 개발자 플랫폼 | 소셜로그인, 회원, 관리자 |
 
 ## 📫 Contact
