@@ -27,15 +27,12 @@
 
 ## 🚀 Projects
 
-### 진행 중
-
-- **[Pawmento](https://github.com/likelion-backendschool-9th/pawmento)** — 반려동물과의 일상을 기록하고 추억을 간직하는 플랫폼.
-- **[actors-data-base](https://github.com/lakesole/actors-data-base)** — 배우 프로필, 활동 기록, 수업·출결을 관리하는 사내 시스템. 기획·개발을 맡았으며 현재 회사에서 사용 중입니다.
-
-### 이전 프로젝트
-
-- **[쇼모아 (Show Moa)](https://showmoa.vercel.app)** — 공연 정보 플랫폼. PO 및 백엔드 개발.
-- **[찍먹 (Dip Source)](https://dipsource.newlecture.com)** — 개발자 플랫폼. 소셜 로그인, 회원, 관리자 기능 담당.
+| 프로젝트 | 설명 | 역할 | 상태 |
+| --- | --- | --- | --- |
+| [Pawmento](https://github.com/likelion-backendschool-9th/pawmento) | 반려동물과의 일상을 기록하고 추억을 간직하는 플랫폼 |  | 진행 중 |
+| [actors-data-base](https://github.com/lakesole/actors-data-base) | 배우 프로필, 활동 기록, 수업·출결을 관리하는 사내 시스템 | 기획·개발 | 사내 사용 중 |
+| [쇼모아 (Show Moa)](https://showmoa.vercel.app) | 공연 정보 플랫폼 | PO, 백엔드 개발 | 이전 프로젝트 |
+| [찍먹 (Dip Source)](https://dipsource.newlecture.com) | 개발자 플랫폼 | 소셜 로그인, 회원, 관리자 기능 | 이전 프로젝트 |
 
 ## 📫 Contact
 - Blog: (https://blog.naver.com/lakesole)
