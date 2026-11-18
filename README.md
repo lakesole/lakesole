@@ -13,17 +13,29 @@
 - 배우 매니지먼트 8년 → 백엔드 개발자로 전환 중
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-23445D?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2F6C45?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-275C73?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚀 Projects
-| 이름 | 프로젝트 | 설명 | 역할 |
-|---|---|---|---|
-| [쇼모아(Show Moa)] | (https://showmoa.vercel.app) | 공연 정보 플랫폼 | PO, 백엔드 |
-| [찍먹(Dip Source)] | (https://dipsource.newlecture.com) | 개발자 플랫폼 | 소셜로그인, 회원, 관리자 |
+
+### 진행 중
+
+- **[Pawmento](https://github.com/likelion-backendschool-9th/pawmento)** — 반려동물과의 일상을 기록하고 추억을 간직하는 플랫폼.
+- **[actors-data-base](https://github.com/lakesole/actors-data-base)** — 배우 프로필, 활동 기록, 수업·출결을 관리하는 사내 시스템. 기획·개발을 맡았으며 현재 회사에서 사용 중입니다.
+
+### 이전 프로젝트
+
+- **[쇼모아 (Show Moa)](https://showmoa.vercel.app)** — 공연 정보 플랫폼. PO 및 백엔드 개발.
+- **[찍먹 (Dip Source)](https://dipsource.newlecture.com)** — 개발자 플랫폼. 소셜 로그인, 회원, 관리자 기능 담당.
 
 ## 📫 Contact
 - Blog: (https://blog.naver.com/lakesole)
